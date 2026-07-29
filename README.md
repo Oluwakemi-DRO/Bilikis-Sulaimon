@@ -30,66 +30,98 @@ Automated repetitive reporting tasks
 
 Improved efficiency and reduced manual effort
 
-Tools: Excel (Macros/VBA)
+**Tools:** Excel (Macros/VBA)
 
-📎 View Project
+📎 **View Project**
 
 https://docs.google.com/document/d/1w70L7Desuecshjstfb4AkC00yIDyc0j4/edit?usp=drive_link&ouid=101180385289677090295&rtpof=true&sd=true
 
 
 
+
+
 📊 **Monthly Chargeback Analysis Report for Affiliate Countries**
 
-Project Overview
+**Project Overview**
 Designed and automated a monthly chargeback reporting solution to monitor transaction disputes across affiliate countries. The report provides insights into chargeback trends, fraud indicators, operational issues, and merchant performance, enabling management to identify risks, monitor compliance with card scheme thresholds, and make informed business decisions.
 
-Metrics Calculated
+**Metrics Calculated**
+
 Total Transaction Count
+
 Total Transaction Value
+
 Chargeback Count
+
 Chargeback Value
+
 Chargeback Ratio (%)
+
 Chargeback Value Ratio (%)
+
 Fraud vs Operational Classification
+
 Country Performance
+
 Merchant Performance
+
 Card Scheme Performance
+
 Visa Threshold status
+
 Mastercard Threshold status
+
 Risk Level (Low / Medium / High)
+
 Action Required
+
 Scheme Threshold
+
 Breach Status
+
 Mitigation Plan
 
-Excel Features Used
+
+**Excel Features Used**:
+
 Pivot Tables
+
 Pivot Charts
+
 SUM function
+
 Conditional Formatting
+
 VLOOKUPs (Vertical Lookups)
 
-Business Impact
+
+**Business Impact**
+
 provided insights into dispute trends, root causes, 
+
 Enabled faster identification of fraud and other chargeback trends.
+
 Supported management reporting and card scheme monitoring.
 
 
-📊** Chargeback Reason Code Classification & Reporting Automation**
+
+
+
+📊**Chargeback Reason Code Classification & Reporting Automation**
 
 This project demonstrates how Microsoft Excel was used to automate the classification and reporting of payment card chargebacks. The solution categorizes chargeback reason codes into Fraud and Other, eliminating manual sorting and improving reporting accuracy.
 
 Using Excel formulas, Pivot Tables, and data analysis techniques, the project generates dynamic summaries of chargeback counts and values by country, merchant, and card scheme. It also provides dashboards and visual reports that help identify fraud trends, monitor chargeback thresholds, and support operational decision-making.
 
-Formula Logic
+**Formula Logic**
 
 To automate the classification of chargeback transactions, I developed an Excel formula that cleans and evaluates chargeback reason codes before assigning each transaction to a reporting category.
 
-Formula
+**Formula**
 =IF(LEFT(SUBSTITUTE(C2,"M",""),4)="10.4","Fraud","Other")
 
-Explanation
-The formula performs three key tasks:
+**Explanation**
+**The formula performs three key tasks:**
 
 Classification (IF) – Compares the extracted reason code with the fraud reason code (10.4). If a match is found, the transaction is classified as Fraud; otherwise, it is classified as Other.
 Reason Code Extraction (LEFT) – Extracts the first four characters of the cleaned value to isolate the chargeback reason code.
@@ -100,65 +132,95 @@ Business Value
 This formula automated the classification of chargeback transactions, eliminating manual sorting and ensuring consistent reporting. The resulting classifications were used to calculate fraud and other chargeback counts and values, enabling accurate Pivot Tables, and management reports.
 
 
+📎**View project**
+
+https://docs.google.com/document/d/14_zAmArxhKKuU9RpPNhtQW0T8yyY8QM5/edit?usp=sharing&ouid=101180385289677090295&rtpof=true&sd=true
 
 
-**Merchant Error Dispute Resolution – Recovery of Funds for a Declined POS Transaction
+
+
+📊 **Merchant Error Dispute Resolution – Recovery of Funds for a Declined POS Transaction
 Overview**
 
 This case study demonstrates my ability to investigate complex payment disputes, collaborate with multiple stakeholders, and recover funds through industry-standard dispute resolution processes.
 
-Business Problem
+**Business Problem**
 
 A merchant inadvertently released goods to a cardholder even though the POS transaction was declined. The transaction failed before settlement was completed, meaning the merchant did not receive payment despite delivering the goods.
 
 The objective was to determine whether the funds could be recovered and ensure the merchant was reimbursed through the appropriate dispute resolution process.
 
-My Role
+**My Role**
 
 As the Dispute Resolution Officer, I was responsible for investigating the transaction, coordinating with relevant parties, and facilitating the recovery of funds.
 
-Approach (STAR Method)
-Situation
+**Approach (STAR Method)**
+**Situation**
 
 A merchant released goods based on a transaction that ultimately failed. Since the transaction did not reach settlement, the merchant was not credited, resulting in a financial loss.
 
-Task
+**Task**
 
 My responsibility was to:
 
 Verify the transaction status using the transaction record.
+
 Determine whether the merchant had a valid claim.
+
 Coordinate with the issuing bank and payment processor to recover the funds through the appropriate channels.
 
-Action
+**Action**
+
 Reviewed the transaction to confirm that the transaction failed before settlement.
+
 Established that the merchant had a legitimate financial loss after releasing the goods.
+
 Contacted the cardholder's bank and requested a good-faith recovery from the cardholder.
+
 Followed up until the issuing bank obtained the cardholder's authorization to recover the funds.
+
 Submitted the issuing bank's written concurrence to the payment processor (UPSL) to facilitate the recovery process.
+
 Monitored the case through to completion and confirmed the successful recovery of the funds.
 
-Result
+
+**Result**
+
 Successfully recovered the transaction amount through the payment processor.
+
 The recovered funds were credited back to the acquiring bank.
+
 The merchant was reimbursed for the value of the goods released.
+
 Resolved the dispute without requiring a formal chargeback or arbitration process.
+
 Strengthened merchant confidence by ensuring a fair and timely resolution.
 
 
-Skills Demonstrated
+**Skills Demonstrated**:
 
 Payment Dispute Resolution
+
 Merchant Claims Investigation
+
 Transaction Reconciliation
+
 Settlement Analysis
+
 Stakeholder Management
+
 Good-Faith Recovery Process
+
 Financial Risk Mitigation
+
 Banking Operations
+
 Problem Solving
+
 Communication & Follow-up
-Business Impact
+
+
+**Business Impact**
 
 Successfully coordinated the recovery of funds for a merchant who incurred a financial loss due to the release of goods for a declined transaction. By collaborating with the issuing bank and payment processor and managing the case through to resolution, I helped restore the merchant's financial position while ensuring the recovery process followed established payment industry procedures.
 
