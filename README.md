@@ -4,7 +4,7 @@
 
 I am an Accounting graduate with over three years of experience in Digital Banking Operations, specializing in transaction dispute resolution, reconciliation, chargeback management, and card operations. My expertise includes investigating transaction disputes, reconciling settlement reports, and ensuring compliance with card scheme regulations, service level agreements (SLAs), and data protection standards.
 
-In my current role at United Bank for Africa (UBA), I retrieve and analyze dispute and settlement reports from payment processors such as Interswitch, NIBSS, Mastercard, and UPSL. I reconcile transaction records against core banking systems, investigate discrepancies, collaborate with merchants and financial institutions, and support the timely resolution of chargebacks across Mastercard, Visa, and Verve payment schemes.
+In my current role at United Bank for Africa (UBA), I retrieve and analyze dispute and settlement reports from payment processors such as Interswitch, NIBSS, Mastercard, and UPSL. I reconcile transaction records against core banking systems, investigate discrepancies, collaborate with merchants and financial institutions, and support the timely resolution of chargebacks across Mastercard, Visa, and Verve card schemes.
 
 My commitment to operational excellence has been recognized through multiple awards, including Staff of the Month in 2023 and 2025, and a Commendation letter in 2024 for professionalism, diligence, and outstanding performance in managing high-volume chargeback disputes that contributed to preventing financial losses. I was also recognized on Employee Appreciation Day for developing an Excel automation solution that reduced manual data processing by approximately 90%, significantly improving turnaround time, accuracy, and team productivity.
 
@@ -175,7 +175,7 @@ https://docs.google.com/document/d/14_zAmArxhKKuU9RpPNhtQW0T8yyY8QM5/edit?usp=sh
 
 
 ## 📌**Merchant Error Dispute Resolution – Recovery of Funds for a Declined POS Transaction
-Overview**
+**Overview**
 
 This case study demonstrates my ability to investigate complex payment disputes, collaborate with multiple stakeholders, and recover funds through industry-standard dispute resolution processes.
 
