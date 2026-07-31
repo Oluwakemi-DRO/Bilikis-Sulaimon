@@ -13,26 +13,49 @@ Beyond my operational responsibilities, I am passionate about using data analyti
 I am proficient in Microsoft Excel (Advanced), Power BI, SQL, VBA, financial reconciliation, data analysis, and reporting, and I enjoy leveraging technology to improve operational efficiency and support data-driven decision-making.
 
 ## Skills
-- Chargeback Management
-- Banking Operations
-- Data Analysis
-- Excel Automation
-- Dashboard Development
-- Financial Reporting
-- Process Improvement
+•	Chargeback Management
+•	Banking Operations
+•	Data Analysis
+•	Excel Automation
+•	Dashboard Development
+•	Financial Reporting
+•	Process Improvement
+
+
+🏆 **Awards & Recognition**
+
+
+🏅 Staff of the Month – 2023
+
+
+📄Commendation Letter (2024) – United Bank for Africa (UBA)
+- Received a Commendation Letter for outstanding performance, professionalism, due diligence and dedication in 
+managing chargeback disputes, significantly preventing financial losses.
+
+📎 View Letter
+https://drive.google.com/file/d/1BcTNZtfXrgpDnz-dwmptBOmliSZxqrn4/view?usp=sharing
+
+
+ 🏅 Staff of the Month – 2025
+
+  
+ 🏆 Employee Appreciation Day Honoree – 2026
+
+
+
 
 📊 Projects
 
 
-📌 Excel Automation Tool
+📌** Excel Automation Tool**
 
 Automated repetitive reporting tasks
 
 Improved efficiency and reduced manual effort
 
-**Tools:** Excel (Macros/VBA)
+Tools: Excel (Macros/VBA)
 
-📎 **View Project**
+📎 View Project
 
 https://docs.google.com/document/d/1w70L7Desuecshjstfb4AkC00yIDyc0j4/edit?usp=drive_link&ouid=101180385289677090295&rtpof=true&sd=true
 
@@ -40,74 +63,76 @@ https://docs.google.com/document/d/1w70L7Desuecshjstfb4AkC00yIDyc0j4/edit?usp=dr
 
 
 
-📊 **Monthly Chargeback Analysis Report for Affiliate Countries**
+📌 **Monthly Chargeback Analysis Report for Affiliate Countries**
 
 **Project Overview**
 Designed and automated a monthly chargeback reporting solution to monitor transaction disputes across affiliate countries. The report provides insights into chargeback trends, fraud indicators, operational issues, and merchant performance, enabling management to identify risks, monitor compliance with card scheme thresholds, and make informed business decisions.
 
 **Metrics Calculated**
 
-Total Transaction Count
+•	Total Transaction Count
 
-Total Transaction Value
+•	Total Transaction Value
 
-Chargeback Count
+•	Chargeback Count
 
-Chargeback Value
+•	Chargeback Value
 
-Chargeback Ratio (%)
+•	Chargeback Ratio (%)
 
-Chargeback Value Ratio (%)
+•	Chargeback Value Ratio (%)
 
-Fraud vs Operational Classification
+•	Fraud vs Operational Classification
 
-Country Performance
+•	Country Performance
 
-Merchant Performance
+•	Merchant Performance
 
-Card Scheme Performance
+•	Card Scheme Performance
 
-Visa Threshold status
+•	Visa Threshold status
 
-Mastercard Threshold status
+•	Mastercard Threshold status
 
-Risk Level (Low / Medium / High)
+•	Risk Level (Low / Medium / High)
 
-Action Required
+•	Action Required
 
-Scheme Threshold
+•	Scheme Threshold
 
-Breach Status
+•	Breach Status
 
-Mitigation Plan
+•	Mitigation Plan
+
 
 
 **Excel Features Used**:
 
-Pivot Tables
+•	Pivot Tables
 
-Pivot Charts
+•	Pivot Charts
 
-SUM function
+•	SUM function
 
-Conditional Formatting
+•	Conditional Formatting
 
-VLOOKUPs (Vertical Lookups)
+•	VLOOKUPs (Vertical Lookups)
 
 
 **Business Impact**
 
-provided insights into dispute trends, root causes, 
+•	Provided insights into dispute trends, root causes, 
 
-Enabled faster identification of fraud and other chargeback trends.
+•	Enabled faster identification of fraud and other chargeback trends.
 
-Supported management reporting and card scheme monitoring.
-
-
+•	Supported management reporting and card scheme monitoring.
 
 
 
-📊**Chargeback Reason Code Classification & Reporting Automation**
+
+
+
+📌**Chargeback Reason Code Classification & Reporting Automation**
 
 This project demonstrates how Microsoft Excel was used to automate the classification and reporting of payment card chargebacks. The solution categorizes chargeback reason codes into Fraud and Other, eliminating manual sorting and improving reporting accuracy.
 
@@ -123,11 +148,15 @@ To automate the classification of chargeback transactions, I developed an Excel 
 **Explanation**
 **The formula performs three key tasks:**
 
-Classification (IF) – Compares the extracted reason code with the fraud reason code (10.4). If a match is found, the transaction is classified as Fraud; otherwise, it is classified as Other.
-Reason Code Extraction (LEFT) – Extracts the first four characters of the cleaned value to isolate the chargeback reason code.
-Data Cleaning (SUBSTITUTE) – Removes the leading "M" from the chargeback reason code (e.g., M10.4 becomes 10.4) to standardize the data for analysis.
+•	Classification (IF) – Compares the extracted reason code with the fraud reason code (10.4). If a match is found, the transaction is classified as Fraud; otherwise, it is classified as Other.
 
-Business Value
+•	Reason Code Extraction (LEFT) – Extracts the first four characters of the cleaned value to isolate the chargeback reason code.
+
+•	Data Cleaning (SUBSTITUTE) – Removes the leading "M" from the chargeback reason code (e.g., M10.4 becomes 10.4) to standardize the data for analysis.
+
+
+
+**Business Value**
 
 This formula automated the classification of chargeback transactions, eliminating manual sorting and ensuring consistent reporting. The resulting classifications were used to calculate fraud and other chargeback counts and values, enabling accurate Pivot Tables, and management reports.
 
@@ -139,7 +168,7 @@ https://docs.google.com/document/d/14_zAmArxhKKuU9RpPNhtQW0T8yyY8QM5/edit?usp=sh
 
 
 
-📊 **Merchant Error Dispute Resolution – Recovery of Funds for a Declined POS Transaction
+📌**Merchant Error Dispute Resolution – Recovery of Funds for a Declined POS Transaction
 Overview**
 
 This case study demonstrates my ability to investigate complex payment disputes, collaborate with multiple stakeholders, and recover funds through industry-standard dispute resolution processes.
@@ -155,6 +184,7 @@ The objective was to determine whether the funds could be recovered and ensure t
 As the Dispute Resolution Officer, I was responsible for investigating the transaction, coordinating with relevant parties, and facilitating the recovery of funds.
 
 **Approach (STAR Method)**
+
 **Situation**
 
 A merchant released goods based on a transaction that ultimately failed. Since the transaction did not reach settlement, the merchant was not credited, resulting in a financial loss.
@@ -163,61 +193,64 @@ A merchant released goods based on a transaction that ultimately failed. Since t
 
 My responsibility was to:
 
-Verify the transaction status using the transaction record.
+•	Verify the transaction status using the transaction record.
 
-Determine whether the merchant had a valid claim.
+•	Determine whether the merchant had a valid claim.
 
-Coordinate with the issuing bank and payment processor to recover the funds through the appropriate channels.
+•	Coordinate with the issuing bank and payment processor to recover the funds through the appropriate channels.
+
 
 **Action**
 
-Reviewed the transaction to confirm that the transaction failed before settlement.
+•	Reviewed the transaction to confirm that the transaction failed before settlement.
 
-Established that the merchant had a legitimate financial loss after releasing the goods.
+•	Established that the merchant had a legitimate financial loss after releasing the goods.
 
-Contacted the cardholder's bank and requested a good-faith recovery from the cardholder.
+•	Contacted the cardholder's bank and requested a good-faith recovery from the cardholder.
 
-Followed up until the issuing bank obtained the cardholder's authorization to recover the funds.
+•	Followed up until the issuing bank obtained the cardholder's authorization to recover the funds.
 
-Submitted the issuing bank's written concurrence to the payment processor (UPSL) to facilitate the recovery process.
+•	Submitted the issuing bank's written concurrence to the payment processor (UPSL) to facilitate the recovery process.
 
-Monitored the case through to completion and confirmed the successful recovery of the funds.
+•	Monitored the case through to completion and confirmed the successful recovery of the funds.
+
 
 
 **Result**
 
-Successfully recovered the transaction amount through the payment processor.
+•	Successfully recovered the transaction amount through the payment processor.
 
-The recovered funds were credited back to the acquiring bank.
+•	The recovered funds were credited back to the acquiring bank.
 
-The merchant was reimbursed for the value of the goods released.
+•	The merchant was reimbursed for the value of the goods released.
 
-Resolved the dispute without requiring a formal chargeback or arbitration process.
+•	Resolved the dispute without requiring a formal chargeback or arbitration process.
 
-Strengthened merchant confidence by ensuring a fair and timely resolution.
+•	Strengthened merchant confidence by ensuring a fair and timely resolution.
 
 
 **Skills Demonstrated**:
 
-Payment Dispute Resolution
+•	Payment Dispute Resolution
 
-Merchant Claims Investigation
+•	Merchant Claims Investigation
 
-Transaction Reconciliation
+•	Transaction Reconciliation
 
-Settlement Analysis
+•	Settlement Analysis
 
-Stakeholder Management
+•	Stakeholder Management
 
-Good-Faith Recovery Process
+•	Good-Faith Recovery Process
 
-Financial Risk Mitigation
+•	Financial Risk Mitigation
 
-Banking Operations
+•	Banking Operations
 
-Problem Solving
+•	Problem Solving
 
-Communication & Follow-up
+•	Communication & Follow-up
+
 
 
 **Business Impact**
