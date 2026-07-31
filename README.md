@@ -14,15 +14,21 @@ I am proficient in Microsoft Excel (Advanced), Power BI, SQL, VBA, financial rec
 
 ## Skills
 •	Chargeback Management
+
 •	Banking Operations
+
 •	Data Analysis
+
 •	Excel Automation
+
 •	Dashboard Development
+
 •	Financial Reporting
+
 •	Process Improvement
 
 
-🏆 **Awards & Recognition**
+## 🏆 Awards & Recognition**
 
 
 🏅 Staff of the Month – 2023
@@ -44,7 +50,7 @@ https://drive.google.com/file/d/1BcTNZtfXrgpDnz-dwmptBOmliSZxqrn4/view?usp=shari
 
 
 
-📊 Projects
+## 📊 Projects
 
 
 📌** Excel Automation Tool**
@@ -63,7 +69,7 @@ https://docs.google.com/document/d/1w70L7Desuecshjstfb4AkC00yIDyc0j4/edit?usp=dr
 
 
 
-📌 **Monthly Chargeback Analysis Report for Affiliate Countries**
+## 📌 **Monthly Chargeback Analysis Report for Affiliate Countries**
 
 **Project Overview**
 Designed and automated a monthly chargeback reporting solution to monitor transaction disputes across affiliate countries. The report provides insights into chargeback trends, fraud indicators, operational issues, and merchant performance, enabling management to identify risks, monitor compliance with card scheme thresholds, and make informed business decisions.
@@ -132,7 +138,7 @@ Designed and automated a monthly chargeback reporting solution to monitor transa
 
 
 
-📌**Chargeback Reason Code Classification & Reporting Automation**
+## 📌**Chargeback Reason Code Classification & Reporting Automation**
 
 This project demonstrates how Microsoft Excel was used to automate the classification and reporting of payment card chargebacks. The solution categorizes chargeback reason codes into Fraud and Other, eliminating manual sorting and improving reporting accuracy.
 
@@ -168,7 +174,7 @@ https://docs.google.com/document/d/14_zAmArxhKKuU9RpPNhtQW0T8yyY8QM5/edit?usp=sh
 
 
 
-📌**Merchant Error Dispute Resolution – Recovery of Funds for a Declined POS Transaction
+## 📌**Merchant Error Dispute Resolution – Recovery of Funds for a Declined POS Transaction
 Overview**
 
 This case study demonstrates my ability to investigate complex payment disputes, collaborate with multiple stakeholders, and recover funds through industry-standard dispute resolution processes.
