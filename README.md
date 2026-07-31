@@ -34,11 +34,11 @@ I am proficient in Microsoft Excel (Advanced), Power BI, SQL, VBA, financial rec
 🏅 Staff of the Month – 2023
 
 
-📄Commendation Letter (2024) – United Bank for Africa (UBA)
-- Received a Commendation Letter for outstanding performance, professionalism, due diligence and dedication in 
-managing chargeback disputes, significantly preventing financial losses.
+📄Commendation Letter for Operational Excellence
+- Recognized on **26th December 2024** for outstanding performance, professionalism, due diligence and dedication in managing chargeback  disputes, significantly preventing financial losses. The official commendation letter was issued on **2 January 2025**.
 
 📎 View Letter
+
 https://drive.google.com/file/d/1BcTNZtfXrgpDnz-dwmptBOmliSZxqrn4/view?usp=sharing
 
 
