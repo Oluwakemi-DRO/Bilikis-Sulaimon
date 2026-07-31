@@ -35,7 +35,7 @@ I am proficient in Microsoft Excel (Advanced), Power BI, SQL, VBA, financial rec
 
 
 📄Commendation Letter for Operational Excellence
-- Recognized on **26th December 2024** for outstanding performance, professionalism, due diligence and dedication in managing chargeback  disputes, significantly preventing financial losses. The official commendation letter was issued on **2 January 2025**.
+- Recognized on **26th December 2024** for outstanding performance, professionalism, due diligence and dedication in managing chargeback  disputes, significantly preventing financial losses. The official commendation letter was issued on **2nd January 2025**.
 
 📎 View Letter
 
