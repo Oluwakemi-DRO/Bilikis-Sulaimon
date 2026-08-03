@@ -53,13 +53,67 @@ https://drive.google.com/file/d/1BcTNZtfXrgpDnz-dwmptBOmliSZxqrn4/view?usp=shari
 ## 📊 Projects
 
 
-## 📌 **Excel Automation Tool**
+## 📌 Excel Automation Tool for Chargeback Reporting
 
-Automated repetitive reporting tasks
+**Project Overview**
 
-Improved efficiency and reduced manual effort
+Developed an Excel automation tool to streamline the daily chargeback reporting process using data exported from the NIBSS Industry Dispute Resolution System (IDRS). The solution automated repetitive data formatting tasks, standardized report outputs, and significantly reduced the time required to prepare reports for analysis.
 
-Tools: Excel (Macros/VBA)
+**Problem**
+
+The NIBSS IDRS provides two report export formats:
+
+•	Bulk Report Download: Supports high-volume chargeback records but uses a JavaScript Date.toString() date format and contains data structures that differ from the standard reporting template.
+
+•	Single Report Download: Requires downloading reports page by page and uses the required DD/MM/YYYY 12-hour time format, along with additional parameters used for operational reporting.
+
+The inconsistency between these formats made manual report preparation time-consuming and prone to formatting errors.
+
+**Solution**
+
+Built an automated Excel solution that:
+
+•	Converted JavaScript date formats into the required reporting format. 
+
+•	Standardized bulk report data to match the single-download report structure. 
+
+•	Automated repetitive formatting and data-cleaning tasks. 
+
+•	Reduced manual intervention before report analysis. 
+
+•	Generated consistent reports ready for operational use.
+
+**Tools Used**
+
+•	Microsoft Excel
+
+•	VBA (Macros)
+
+•	Excel Formulas
+
+**Key Features**
+
+•	Automated date conversion 
+
+•	Bulk data transformation 
+
+•	Report standardization 
+
+•	One-click report preparation 
+
+•	Error reduction through automation
+
+
+**Impact**
+
+•	Reduced manual report preparation time by over 90%. 
+
+•	Improved report consistency and accuracy. 
+
+•	Increased operational efficiency for daily chargeback reporting. 
+
+•	Enabled faster turnaround time for dispute analysis.
+
 
 📎 View Project
 
