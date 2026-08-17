@@ -106,7 +106,7 @@ Built an automated Excel solution that:
 
 **Impact**
 
-•	Reduced manual report preparation time by over 90%. 
+•	Reduced manual data processing by approximately 90%
 
 •	Improved report consistency and accuracy. 
 
