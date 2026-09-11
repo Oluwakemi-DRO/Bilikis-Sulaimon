@@ -30,12 +30,14 @@ I am proficient in Microsoft Excel (Advanced), Power BI, SQL, VBA, financial rec
 
 ## 🏆 Awards & Recognition**
 
-🏆 31st August 2026 — Role Model Recognition: Achieved a 95% performance rating and earned a Role Model appraisal result, recognizing consistent performance, accountability, and valuable contribution to operational objectives.
+🏆 30th August 2026 — Role Model Recognition
+-Achieved a 95% performance rating and received a Role Model appraisal result in recognition of consistent performance, accountability, and valuable contribution to operational objectives.
 
-🏆 Employee Appreciation Day Honoree – 2026
+🏆 Employee Appreciation Day Honoree – February 2026
+Recognized for contributions to team performance and operational efficiency.
 
 
-🏅 Staff of the Month – 2025
+🏅 Staff of the Month – April, 2025
 
 
 📄Commendation Letter for Operational Excellence- Recognized on **26th December 2024** for outstanding performance, professionalism, due diligence and dedication in managing chargeback  disputes, significantly preventing financial losses. The official commendation letter was issued on **2nd January 2025**.
@@ -44,7 +46,7 @@ I am proficient in Microsoft Excel (Advanced), Power BI, SQL, VBA, financial rec
 https://drive.google.com/file/d/1BcTNZtfXrgpDnz-dwmptBOmliSZxqrn4/view?usp=sharing
 
   
-🏅 Staff of the Month – 2023
+🏅 Staff of the Month – August, 2023
 
 
 ## 📊 Projects
