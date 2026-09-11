@@ -30,7 +30,7 @@ I am proficient in Microsoft Excel (Advanced), Power BI, SQL, VBA, financial rec
 
 ## 🏆 Awards & Recognition**
 
-🏆 30th August 2026 — Role Model Recognition
+🏆 31st August 2026 — Role Model Recognition
 Achieved a 95% performance rating and earned a Role Model appraisal result, recognizing consistent performance, accountability, and valuable contribution to operational objectives.
 
 🏆 Employee Appreciation Day Honoree – 2026
