@@ -39,8 +39,7 @@ Achieved a 95% performance rating and earned a Role Model appraisal result, reco
 🏅 Staff of the Month – 2025
 
 
-📄Commendation Letter for Operational Excellence
-- Recognized on **26th December 2024** for outstanding performance, professionalism, due diligence and dedication in managing chargeback  disputes, significantly preventing financial losses. The official commendation letter was issued on **2nd January 2025**.
+📄Commendation Letter for Operational Excellence- Recognized on **26th December 2024** for outstanding performance, professionalism, due diligence and dedication in managing chargeback  disputes, significantly preventing financial losses. The official commendation letter was issued on **2nd January 2025**.
 
 📎 View Letter
 https://drive.google.com/file/d/1BcTNZtfXrgpDnz-dwmptBOmliSZxqrn4/view?usp=sharing
